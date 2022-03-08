@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CursoDIO/.idea/CursoDIO.iml" filepath="$PROJECT_DIR$/../CursoDIO/.idea/CursoDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios.iml" filepath="$PROJECT_DIR$/.idea/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercicios3/.idea/Exercicios3.iml" filepath="$PROJECT_DIR$/../Exercicios3/.idea/Exercicios3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercicios4/.idea/Exercicios4.iml" filepath="$PROJECT_DIR$/../Exercicios4/.idea/Exercicios4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercicios5/.idea/Exercicios5.iml" filepath="$PROJECT_DIR$/../Exercicios5/.idea/Exercicios5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercicios6/.idea/Exercicios6.iml" filepath="$PROJECT_DIR$/../Exercicios6/.idea/Exercicios6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ping/.idea/ping.iml" filepath="$PROJECT_DIR$/../ping/.idea/ping.iml" />
+    </modules>
+  </component>
+</project>
