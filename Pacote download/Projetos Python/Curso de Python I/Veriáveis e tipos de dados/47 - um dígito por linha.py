@@ -1,0 +1,6 @@
+numeros = int(input('Digite números entre 1000 e 9999: '))
+print('\n')
+print(str(numeros)[0])
+print(str(numeros)[1])
+print(str(numeros)[2])
+print(str(numeros)[3])

@@ -1,0 +1,5 @@
+A = float(input('Digite a altura do cilindro: '))
+R = float(input('Digite o raio do cilindro: '))
+print('\n')
+VC = 3.141592 * ((R ** 2) * A)
+print(f'O volume do cilindro é {VC:.2f}')

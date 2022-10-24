@@ -1,0 +1,5 @@
+comprimento = float(input('Digite o comprimento do terreno: '))
+largura = float(input('Digite a largura do terreno: '))
+tela = float(input('Digite o preço da tela: '))
+print('\n')
+print(f'O valor para cercar o terreno será: {(comprimento * largura) * tela:.2f}')
